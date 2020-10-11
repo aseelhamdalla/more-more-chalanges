@@ -1,0 +1,82 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-image: url("/more-more-chalanges/images/img2.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 100% 100%;
+    padding-right: 150px;
+
+}
+.image1{
+    float: right;
+    width: 400px;
+    height: 400px;
+    border: 15px solid rgb(179, 133, 66)   ;
+    border-radius: 10px;
+
+}
+.imgorigion{
+    width: 400px;
+    height: 400px;
+
+}
+
+
+.pokemon-card-container{
+  background-color: rgb(179, 133, 66);
+    width: 400px;
+    height: 400px;
+    margin: 10%;
+    padding: 10px;
+    border: 15px  rgb(179, 133, 66);
+border-radius: 10px;
+
+}
+.background{
+width: 700px;
+}
+
+.image{
+
+    width: 400px;
+    height: 200px;
+
+}
+.content{
+    background-color: rgb(164, 181, 212);
+    padding:5px;
+}
+.pokemon-name{
+    text-align: center;
+    font-size: 20px;
+    padding:10px
+}
+.pokemon-type{
+background-color: black;
+padding: 7px;
+color:white;
+border-radius: 5px;
+width:100px;
+display: block;
+text-align: center;
+position: relative;
+top:0;
+
+border-radius: 10px;
+}
+
+
+
+.pokemon-logo{
+
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+}
+.navbar-custom .navbar-nav>.active>a {
+    color:#fff;
+    background-color:#fed136
+  }
